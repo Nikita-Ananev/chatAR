@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>629278754561-12hn2fdru25ckvptuoiaegs06lqpc3a0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.629278754561-12hn2fdru25ckvptuoiaegs06lqpc3a0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhL5CFqRO33BP-mmY_rNcKYA3b6jj6sPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>629278754561</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>PinotecaSwiftUI-ar</string>
+	<key>PROJECT_ID</key>
+	<string>pinoteca-80b52</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pinoteca-80b52.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:629278754561:ios:2f3473c421e7e7ec9afd00</string>
+</dict>
+</plist>
